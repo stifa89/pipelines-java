@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/LuisMagalhaes/Trainning/_apis/build/status/stifa89.pipelines-java?branchName=master)](https://dev.azure.com/LuisMagalhaes/Trainning/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
